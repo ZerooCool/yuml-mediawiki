@@ -1,4 +1,3 @@
-  GNU nano 4.3                                                                                 /var/www/wiki.visionduweb.fr/extensions/yUML/yUML.php                                                                                 Modifié  
 <?php
 // Author: Sindri Traustason http://sindri.info
 
