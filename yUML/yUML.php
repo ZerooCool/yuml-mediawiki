@@ -1,5 +1,7 @@
 <?php
 // Author: Sindri Traustason http://sindri.info
+// Revised by Gaël
+// Revised by Zer00CooL
 
 // Avoid unstubbing $wgParser on setHook() too early on modern (1.12+) MW versions, as per r35980
 if ( defined( 'MW_SUPPORTS_PARSERFIRSTCALLINIT' ) ) {
