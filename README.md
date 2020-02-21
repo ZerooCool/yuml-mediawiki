@@ -11,4 +11,4 @@ require_once( "$IP/extensions/yUML/yUML.php" );
 
 to your LocalSettings.php in your MediaWiki folder.
 
-Official tutorial for exemple : http://wiki.sindri.info/wiki/YUML_MediaWiki_Extension
+Official tutorial from Sindri Traustason for exemple : http://wiki.sindri.info/wiki/YUML_MediaWiki_Extension
